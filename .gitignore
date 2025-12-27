@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+venv/
+.env
+
+# Datasets (Too large for GitHub)
+*.csv
+*.jsonl
+*.json
+
+# Models (Too large for GitHub)
+*.pkl
+
+# IDEs
+.vscode/
+.idea/
