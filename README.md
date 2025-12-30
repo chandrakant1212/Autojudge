@@ -32,13 +32,8 @@ We evaluated multiple models (Logistic Regression, SVM, Random Forest, Gradient 
 
 1. **Clone the Repository**:
    ```bash
-<<<<<<< HEAD
-   git clone <repository_url>
-   cd autojudge
-=======
    git clone <https://github.com/chandrakant1212/Autojudge>
    cd Autojudge
->>>>>>> 9d06ffa8534606b29d7874db24b9f19815fe91cd
    ```
 
 2. **Install Dependencies**:
