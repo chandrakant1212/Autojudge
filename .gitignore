@@ -11,8 +11,10 @@ venv/
 *.jsonl
 *.json
 
-# Models (Too large for GitHub)
-*.pkl
+# Models (Allowed for deployment)
+# *.pkl
+!model_class.pkl
+!model_score.pkl
 
 # IDEs
 .vscode/
